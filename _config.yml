@@ -1,0 +1,80 @@
+# Site
+name: "Pahul Preet Singh Kohli"
+title: "Pahul Preet Singh Kohli"
+description: "Blog"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: 'UA-133325355-1'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  Pahul Preet Singh Kohli:
+    name: Pahul Preet Singh Kohli
+    display_name: Pahul Preet Singh Kohli
+    email: pahulpreet86@gmail.com
+    linkedin: https://www.linkedin.com/in/pahul-preet-singh-kohli/
+    description: "Data Analyst / Data Engineer, Building Data-Driven Applications"
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: pahulpreet86@gmail.com
+  facebook:
+  flickr:
+  github: pahulpreet86
+  instagram: 
+  pinterest:
+  linkedin: pahul-preet-singh-kohli
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
