@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: 'https://pahulpreet86.github.io'
 google_analytics: 'UA-133325355-1'
 include: ["_pages"]
-permalink: /:title/
+permalink: :title/
 
 # Authors
 authors:
