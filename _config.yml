@@ -4,7 +4,7 @@ title: "Pahul Preet Singh Kohli"
 description: "Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://pahulpreet86.github.io'
+baseurl: 'https://pahulpreet86.github.io/'
 google_analytics: 'UA-133325355-1'
 include: ["_pages"]
 permalink: /:title/
