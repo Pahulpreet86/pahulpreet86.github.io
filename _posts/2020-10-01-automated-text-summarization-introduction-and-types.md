@@ -11,17 +11,17 @@ comments: false
 
 
 
-Text Summarization is the process of reducing the original text 's size while retaining key information elements and the context.
+Automated Text Summarization is the automated process of reducing the original text 's size while retaining key information elements and the context.
 
   
 
-The main challenge in text summarization is that without a reasonable amount of background knowledge a high reduction rate can not be achieved. 
+The main challenge in automated text summarization is that without a reasonable amount of background knowledge a high reduction rate can not be achieved. 
 
-Anotherchallenge, is we can not be sure that the summarizer has not missed any important information from the source.
+Anotherchallenge, is we can not be sure that the automated summarizer has not missed any important information from the source.
 
   
 
-The text summarization approaches are categorized in two broad groups:
+The automated text summarization approaches are categorized in two broad groups:
 
   
 
@@ -39,7 +39,7 @@ For evaluation of text summarization, a set of metrics called **ROUGE** is calcu
 
 **ROUGE (Recall Oriented Understudy of Gisting Evaluation)**: is a score based on the similarity in the sequences of words between a human-written text summary and the machine generated summary.
 
-## Types of Text Summarization
+## Types of Auttomated Text Summarization
 
 1.   ### Extractive Summarization (Knowledge-poor)
 		-   Extractive summary method draws sentences directly from the text based on a scoring feature.
@@ -72,23 +72,24 @@ For evaluation of text summarization, a set of metrics called **ROUGE** is calcu
 		-   Includes rephrasing sentences, incorporating information from full text to create summaries alike human-written abstract.
 			    
 
-  
--   #### Advantages
-    
+		  
+		-   #### Advantages
+		    
 	
-	-    Summary generated are more closer to human created summaries.
-           
+			-    Summary generated are more closer to human created summaries.      
+			   
 
--   #### Disadvantages
-    
+
+		-   #### Disadvantages
+		    
 	
-	-   Heavily dependent on language and domain.
-	    
-	-   Summary may not include exactly the same sentences, therefore, will be difficult to backtrack the source sentences for the same.
-	    
-	-   Most important information might get missed in summary.
-	    
-	-   Number of sentences in summary depends on the dataset on which it is trained.
+			-   Heavily dependent on language and domain.
+			    
+			-   Summary may not include exactly the same sentences, therefore, will be difficult to backtrack the source sentences for the same.
+			    
+			-   Most important information might get missed in summary.
+			    
+			-   Number of sentences in summary depends on the dataset on which it is trained.
   
 ### References
   
