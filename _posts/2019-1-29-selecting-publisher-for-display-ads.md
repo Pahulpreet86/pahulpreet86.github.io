@@ -53,7 +53,7 @@ Ad Metrics defines the ad type and dimensions of the ad space available on the p
  - **Easy updation of Ads**
 
                         
-*Refrences*:
+### References
 1. <a href="https://blog.adbeat.com/how-to-choose-publishers-advertising-campaigns/">https://blog.adbeat.com/how-to-choose-publishers-advertising-campaigns/</a>
 2. <a href="https://blog.parse.ly/post/5580/metrics-actually-matter-publishers/">https://blog.parse.ly/post/5580/metrics-actually-matter-publishers/</a>
 3. <a href="http://blog.whatrunswhere.com/choosing-a-publisher-for-your-display-ads/">http://blog.whatrunswhere.com/choosing-a-publisher-for-your-display-ads/</a>

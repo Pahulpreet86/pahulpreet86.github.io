@@ -96,7 +96,7 @@ The software provides a general implementation of (arbitrary order) linear chain
 	  
 	  
 
-**Reference**:
+### References
 
 1.  [https://towardsdatascience.com/named-entity-recognition-applications-and-use-cases-acdbf57d595e](https://towardsdatascience.com/named-entity-recognition-applications-and-use-cases-acdbf57d595e)
     

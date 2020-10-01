@@ -60,7 +60,7 @@ Email marketing is the process of delivering a promotional letter, primarily by 
 	![image]({{ site.baseurl }}/assets/images/update_sheet-min.png)
 
 
-**References:**
+### References
 
  - [https://mailchimp.com/marketing-glossary/email-automation/](https://mailchimp.com/marketing-glossary/email-automation/)
 

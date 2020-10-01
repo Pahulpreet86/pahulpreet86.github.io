@@ -104,7 +104,7 @@ The input vocabulary fed to the model can be pruned to restrict modeling of topi
 	-   Used to decide the required number of topics in modeling.
 	    
 
-*References*:
+### References
 
 1.  [https://en.wikipedia.org/wiki/Topic_model](https://en.wikipedia.org/wiki/Topic_model)
     

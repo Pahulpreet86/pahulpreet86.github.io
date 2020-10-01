@@ -138,7 +138,7 @@ It is the process of identifying and categorizing opinions expressed in a piece 
 	[POSITIVE (0.9994151592254639)]
 			
 
-*References*
+### References
 
 -   [https://www.lexalytics.com/technology/sentiment-analysis#rules](https://www.lexalytics.com/technology/sentiment-analysis#rules)
     

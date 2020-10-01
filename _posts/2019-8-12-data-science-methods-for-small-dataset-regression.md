@@ -76,8 +76,7 @@ Rule of thumb for determining the minimum number of subjects required to conduct
     
 -   N > 104 + m for testing individual predictors.
     
-
-**Article Reference**s:
+### References
 
 1.  [https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
     

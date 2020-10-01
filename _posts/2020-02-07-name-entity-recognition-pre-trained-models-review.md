@@ -405,7 +405,7 @@ Following are the pre-trained models used for NER:
   </tr>
 </table>
 <br />
-# **References**
+### References
 
 - **NLTK**
     - [https://www.nltk.org/book/ch07.html](https://www.nltk.org/book/ch07.html)
@@ -450,7 +450,7 @@ Following are the pre-trained models used for NER:
 - [https://medium.com/@b.terryjack/nlp-pretrained-named-entity-recognition-7caa5cd28d7b](https://medium.com/@b.terryjack/nlp-pretrained-named-entity-recognition-7caa5cd28d7b)
 - [https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede](https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede)
 
-# **Dataset**
+### Dataset
 - **NLTK**
     - ACE 2004**:** [https://catalog.ldc.upenn.edu/LDC2005T09](https://catalog.ldc.upenn.edu/LDC2005T09)
     

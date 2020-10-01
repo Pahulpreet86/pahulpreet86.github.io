@@ -65,7 +65,7 @@ Topic Modelling is used to extract topics from a collection of documents.The top
 
   
 
-**Reference**:
+### References
 
 1.  [http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
     
