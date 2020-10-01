@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Text Summarization : Introduction & Types"
+title:  "Automated Text Summarization : Introduction & Types"
 author: Pahul Preet Singh Kohli
-categories: [Text Summarization, Extractive Summarization, Abstractive Summarization, NLU, Natural Language Understanding] 
+categories: [Automated Text Summarization, Extractive Summarization, Abstractive Summarization, NLU, Natural Language Understanding] 
 image: assets/images/textsummarization.jpeg
 description: "Text Summarization is the process of reducing the original text 's size while retaining key information elements and the context."
 comments: false
@@ -15,7 +15,9 @@ Text Summarization is the process of reducing the original text 's size while re
 
   
 
-The main challenge in text summarization is that without a reasonable amount of background knowledge a high reduction rate can not be achieved. Anotherchallenge, is we can not be sure that the summarizer has not missed any important information from the source.
+The main challenge in text summarization is that without a reasonable amount of background knowledge a high reduction rate can not be achieved. 
+
+Anotherchallenge, is we can not be sure that the summarizer has not missed any important information from the source.
 
   
 
@@ -75,7 +77,7 @@ For evaluation of text summarization, a set of metrics called **ROUGE** is calcu
     
 	
 	-    Summary generated are more closer to human created summaries.
-    
+           
 
 -   #### Disadvantages
     
