@@ -28,7 +28,7 @@ Graph Database are increasingly being adopted in various industries, such as hea
     
 
 ![](https://lh5.googleusercontent.com/rN1n3-Zj_pDKrzOzFuWMwUrP3NgaGqvE_tNJWb0Hz3yIXW2TRhuVOKIM1605nwBPZYQyqMiAB0zzyNZOfJzYBbrtr1vh2NbQhOUE2Wp3d9b62rzThifn3AAUBVVU5ZUT6xQPfyXD)
-Source: 
+
 
 -   In property graphs
     
