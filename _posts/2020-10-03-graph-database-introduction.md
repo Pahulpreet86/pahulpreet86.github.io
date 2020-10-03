@@ -74,7 +74,7 @@ Source:
 
 ![](https://lh5.googleusercontent.com/m4ymdIyFModi1-oO_ixqfgTo4nS5wLElzFs9bLlGqDIurcjGoxNgNQpg6--ZJ4Gl6q5X7N3aSMAjb8TQZNd2JjI7EO-VKi_dVMXNGUogpF2L6Gc0VxEPLuM_KeGrU2tY6GplkBsd)
 
--   They don’t support index free adjacency and to implement graph queries.
+-   They don’t support index free adjacency.
     
 -   Triple Stores / RDF (Resource Description Framework) based database services:
     
