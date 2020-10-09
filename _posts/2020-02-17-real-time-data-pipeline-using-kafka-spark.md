@@ -3,7 +3,7 @@ layout: post
 title:  "Project: Real-Time Data Pipeline Using Kafka and Spark"
 author: Pahul Preet Singh Kohli
 categories: [Project, Apache Kafka, PySpark, Real-Time, Data Pipeline] 
-image: assets/images/realtime.gif
+image: assets/images/realtime.png
 description: "Project: Real-Time Data Pipeline Using Kafka and Spark"
 comments: false
 ---
