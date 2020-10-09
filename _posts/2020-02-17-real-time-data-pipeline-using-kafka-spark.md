@@ -92,7 +92,7 @@ comments: false
 -   #### Start the API (port: 3030)
     
 
-  		 python sensor.py
+		python sensor.py
 	    
 
   
@@ -100,7 +100,7 @@ comments: false
 -   #### Start Zookeeper
     
 
-		 bash /opt/zookeeper-3.4.14/bin/zkServer.sh start
+		bash /opt/zookeeper-3.4.14/bin/zkServer.sh start
     
 
   
@@ -116,7 +116,7 @@ comments: false
 -   #### Create RawSensorData Topic
     
 
-		   ./kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic RawSensorData
+		./kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic RawSensorData
     
 
   
@@ -124,7 +124,7 @@ comments: false
 -   #### Create CleanSensorData Topic
     
 
-		 ./kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic CleanSensorData
+		./kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic CleanSensorData
     
 
   
@@ -140,7 +140,7 @@ comments: false
 -   #### Structure and Validate Data, Push To MongoDB and Kafka Topic CleanSensorData
     
 
-		  ./bin/spark-submit structure_validate_store.py
+		./bin/spark-submit structure_validate_store.py
     
 
   
