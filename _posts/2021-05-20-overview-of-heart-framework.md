@@ -135,5 +135,5 @@ The **HEART Framework** is designed by Google to focus on a few primary user met
 	    
 	-   Additional metrics than the standard set for allowing products comparison with others such as competitors or within products.
 
-### References
+### Reference
 -   [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications - Google Research Publications](https://research.google/pubs/pub36299/)
