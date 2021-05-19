@@ -9,7 +9,8 @@ comments: false
 ---
 
 
-The **HEART Framework** was designed by Google to focus on only a few primary user metrics and to quantify those metrics to evaluate them critically.
+
+The **HEART Framework** is designed by Google to focus on a few primary user metrics and then quantify those metrics to evaluate them critically.
 
 
 **Need for the Framework**
